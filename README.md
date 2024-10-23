@@ -19,5 +19,29 @@ basics, classes, and inheritance
 tables, columns, keys, and relationships
 
 
+## Setup your development environment
+### 1. Install Python
+https://www.python.org/downloads/
+
+### 2. Update Python
+From Command Prompt(cmd):
+
+![python1](https://github.com/user-attachments/assets/4626889f-4a95-482c-94e6-630120e1efc0)
+
+![python2](https://github.com/user-attachments/assets/99724522-4a79-4744-96d3-33bfeacd48a1)
+
+### 3. Install pipenv
+Create a virtual environment
+
+![pipenv1](https://github.com/user-attachments/assets/5224655e-45e5-49eb-8c47-baec927e6cfe)
+
+![pipenv2](https://github.com/user-attachments/assets/a3942662-1433-4ca9-96b0-77761625ea90)
+
+### 4. Install VS Code
+https://code.visualstudio.com/download
+
+### 5. Install Python extension in VS Code
+![VSCode_python](https://github.com/user-attachments/assets/2134f947-b0a4-4ddf-8a06-edb8266327c9)
+
 
 
