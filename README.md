@@ -45,3 +45,9 @@ https://code.visualstudio.com/download
 
 
 
+## Make your first Django project 
+### Install Django in a virtual environment
+![first1](https://github.com/user-attachments/assets/fd7c9a28-07d4-448a-9d3e-db5a9081f576)
+
+*notes*: if "pipenv" is not recognized follow this article to solve the issue: 
+https://medium.com/@abdullahsohailcs/resolving-pipenv-command-not-found-error-in-python-54aff5652e80
