@@ -92,6 +92,7 @@ asgi.py - Entry point for ASGI servers, allowing asynchronous features like WebS
 #### Past it in a browser
 ![start project 5](https://github.com/user-attachments/assets/8570b31d-ba3c-49ef-abca-5503b5cd8832)
 
+"Ctrl + C to close the server"
 
 
 
